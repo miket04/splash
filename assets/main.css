@@ -141,8 +141,8 @@ Grid
   box-sizing: border-box;
 }
 body {
-  background: color #0d080e /*#5E5E5E*/;
-  background-image: url("img/stars.jpg");
+  background: color #cfa191 /*#5E5E5E*/;
+  background-image: url("img/backlow.jpeg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
