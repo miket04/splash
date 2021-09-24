@@ -141,8 +141,8 @@ Grid
   box-sizing: border-box;
 }
 body {
-  background: color #cfa191 /*#5E5E5E*/;
-  background-image: url("img/backlow.jpeg");
+  background-color: #14243e /*#5E5E5E*/;
+  background-image: url("img/backlow.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: top;
